@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/coin-toss-game/static/css/main.3deef257.chunk.css",
+    "main.js": "/coin-toss-game/static/js/main.06aea764.chunk.js",
+    "main.js.map": "/coin-toss-game/static/js/main.06aea764.chunk.js.map",
+    "runtime-main.js": "/coin-toss-game/static/js/runtime-main.7c7f8ec5.js",
+    "runtime-main.js.map": "/coin-toss-game/static/js/runtime-main.7c7f8ec5.js.map",
+    "static/js/2.b5945127.chunk.js": "/coin-toss-game/static/js/2.b5945127.chunk.js",
+    "static/js/2.b5945127.chunk.js.map": "/coin-toss-game/static/js/2.b5945127.chunk.js.map",
+    "index.html": "/coin-toss-game/index.html",
+    "static/css/main.3deef257.chunk.css.map": "/coin-toss-game/static/css/main.3deef257.chunk.css.map",
+    "static/js/2.b5945127.chunk.js.LICENSE.txt": "/coin-toss-game/static/js/2.b5945127.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c7f8ec5.js",
+    "static/js/2.b5945127.chunk.js",
+    "static/css/main.3deef257.chunk.css",
+    "static/js/main.06aea764.chunk.js"
+  ]
+}
